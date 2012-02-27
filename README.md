@@ -1,4 +1,4 @@
 This repository has grown into something a bit different and bigger.
 
 The new home is here:
-https://github.com/mneorr/xcode-snippets-manager
+https://github.com/mneorr/snippie
